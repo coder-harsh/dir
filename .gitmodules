@@ -1,0 +1,3 @@
+[submodule "hello-dir"]
+	path = hello-dir
+	url = https://github.com/coder-harsh/hello-dir.git
